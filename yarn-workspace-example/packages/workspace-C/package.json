@@ -1,0 +1,15 @@
+{
+  "name": "workspace-C",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "cross-env": "5.0.5",
+    "workspace-B":"1.0.0"
+  },
+  "author": "mengyu.mi",
+  "license": "ISC"
+}
